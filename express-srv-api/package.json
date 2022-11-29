@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "express-srv-api",
+  "version": "0.0.1",
+  "description": "tp2-tp3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Marcos Manchinelli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
